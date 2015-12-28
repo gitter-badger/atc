@@ -1,5 +1,7 @@
 ## Air Traffic Control
 
+[![Join the chat at https://gitter.im/zlsa/atc](https://badges.gitter.im/zlsa/atc.svg)](https://gitter.im/zlsa/atc?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 An ATC simulator in HTML5.
 
 ## Privacy
